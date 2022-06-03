@@ -1,7 +1,4 @@
-package bg.softuni.mobilele.entity;
-
-import bg.softuni.mobilele.model.entity.enums.UserRoleEnum;
-import com.fasterxml.jackson.databind.ser.Serializers;
+package bg.softuni.mobilele.model.entity;
 
 import javax.persistence.*;
 import java.util.ArrayList;

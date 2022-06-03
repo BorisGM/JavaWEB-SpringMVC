@@ -1,4 +1,4 @@
-package bg.softuni.mobilele.entity;
+package bg.softuni.mobilele.model.entity;
 
 import bg.softuni.mobilele.model.entity.enums.EngineEnum;
 import bg.softuni.mobilele.model.entity.enums.TransmissionEnum;
