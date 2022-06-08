@@ -1,5 +1,5 @@
 package bg.softuni.mobilele.model.dto;
-
+//Create B.M.
 public class UserLoginDTO {
 
   private String username;
